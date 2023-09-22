@@ -1,4 +1,4 @@
-# Sparkfiy Churn Prediction
+# Sparkfiy: Churn Prediction
 
 ## Table of Contents
 - [Installation](#Installation)
