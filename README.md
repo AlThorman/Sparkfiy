@@ -40,7 +40,7 @@ Overall, this project aimed to develop an effective churn prediction model for S
 You can find the exploratory notebook and its corresponding HTML file. The notebook contains detailed explanations in markdown cells to showcase the step-by-step process of predicting churn.
 
 ## Results
-The main findings of the code can be found at the post available [here]([https://medium.com/@althorman/what-is-the-overall-diversity-profile-of-the-organization-f4eaf1280492](https://medium.com/@althorman/revitalizing-customer-engagement-predicting-churn-with-pyspark-fa90dba28c3e))
+The main findings of the code can be found at the post available [here]([https://medium.com/@althorman/what-is-the-overall-diversity-profile-of-the-organization-f4eaf1280492](https://medium.com/@althorman/revitalizing-customer-engagement-predicting-churn-with-pyspark-fa90dba28c3e).
 
 ## Licensing, Authors, Acknowledgements
 I would like to acknowledge Udacity for providing the project idea and workspace.
